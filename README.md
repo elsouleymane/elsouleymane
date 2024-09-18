@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi👋, Souleymane here🤓  
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning ML/AI
+- 🔭 I’m currently working on everything fullstack 😄
+- 🤔 I’m looking for help with Design pattern and best practices
+- 📫 How to reach me: (https://www.linkedin.com/in/souleymane-nuhu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elsouleymane)](https://git.io/streak-stats)
 <!--
 **elsouleymane/elsouleymane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
