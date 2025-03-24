@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on everything fullstack 😄
 - 🤔 I’m looking for help with Design pattern and best practices
 - 📫 How to reach me: (https://www.linkedin.com/in/souleymane-nuhu)
-- My second repo is https://github.com/nuhusouleymane225
+- My second account is https://github.com/nuhusouleymane225
 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=elsouleymane)](https://git.io/streak-stats)
